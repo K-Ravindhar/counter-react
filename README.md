@@ -1,8 +1,48 @@
-# React + Vite
+# Counter React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive counter application built using **React.js**. This project helps to understand the basics of state management with React's `useState` hook.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ➕ Increment the counter with specified input 
+- ➖ Decrement the counter with specified input
+- 🔁 Reset the counter
+- ⚛️ React state updates in real-time
+
+## 📸 Screenshot
+
+![initial state](image-1.png)
+
+![incremented value](image.png) 
+
+## 🛠️ Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/K-Ravindhar/counter-react.git
+cd Counter
+```
+2. Install the dependency
+```bash
+npm install 
+```
+3. Run project
+```bash
+npm run dev
+```
+
+## Link
+https://counter-react-one-sigma.vercel.app/
+
+
+
+
+
